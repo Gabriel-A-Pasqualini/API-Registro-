@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CadastroEnderecoApplication<cadastro-endereco>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.zup.cadastroendereco.CadastroEnderecoApplication",
+            "projectName": "cadastro-endereco",
+            "args": ""
+        }
+    ]
+}
